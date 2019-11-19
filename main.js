@@ -6,7 +6,7 @@ const title = require('console-title');
 
 
 // Edit the token with yours (REQUIRED)
-let token = "YOUR TOKEN";
+let token = "NjQ0NzEwMjIxOTQ3NzMxOTcw.XdRFTg.Fw4Syd5L_R_KOIeqzJiyqW41TO8";
 
 bot.on("ready", () => {
     console.log("Ready");
